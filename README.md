@@ -1,10 +1,11 @@
 
+
 <h1 align="center"> Hi there 👋, I'm Mukka Deepak </h1>
 
 - 🔭 I’m currently working on **Reactjs and Nodejs projects**
 - 🌱 I’m currently learning **Advanced concepts of Javascript and Reactjs** 
 - 👯 I’m looking to collaborate on **MERN stack projects**
-  <img alt="Coder" align="right" width="400" height="400" src="https://user-images.githubusercontent.com/56472120/149668581-a0456eab-a455-40c0-8836-b3c63b3c78d3.png"/>
+<!--   <img alt="Coder" align="right" width="400" height="400" src="https://user-images.githubusercontent.com/56472120/149668581-a0456eab-a455-40c0-8836-b3c63b3c78d3.png"/> -->
 - 💁 I’m looking for help with **Distributed System Design and building scalable applications**
 - 💬 Ask me about **HTML, CSS, JS, and Reactjs**
 - 📫 How to reach me: 
