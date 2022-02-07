@@ -25,7 +25,14 @@
 
   <br/>
  
-
+ ## My Recent blogs
+ 
+ - 🤖 [Can GitHub Copilot solve JavaScript interview questions?](https://mukkadeepak.medium.com/can-github-copilot-solve-javascript-interview-questions-bcb25703e103)
+ 
+ - ✨ [Write Your First Microservice in JavaScript](https://mukkadeepak.medium.com/write-your-first-microservice-in-javascript-866efbe75a60)
+ 
+   <br/>
+ 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Deepakmukka1&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
  # ![](https://komarev.com/ghpvc/?username=Deepakmukka1)
