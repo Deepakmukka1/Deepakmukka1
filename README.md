@@ -1,7 +1,12 @@
 
 
-<h1 align="center"> Hi there 👋, I'm Mukka Deepak </h1>
-<h4 align="center"> <i> I love building applications with great UI/UX </i> <h4/>
+<h1 align="center"> Hi there 👋, I'm Mukka Deepak </h1> 
+<div align="center">
+ 
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%23F7A45E&size=22&center=true&vCenter=true&width=600&height=80&lines=I+love+building+applications++with+great+UI%2FUX)
+ 
+ </div>
+ 
 
  🔭 I’m currently working on **Reactjs and Nodejs projects**
  
