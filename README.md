@@ -3,7 +3,7 @@
 <h1 align="center"> Hi there 👋, I'm Mukka Deepak </h1> 
 <div align="center">
  
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2303944A&size=22&center=true&vCenter=true&width=600&height=80&lines=I+love+building+applications++with+great+UI%2FUX)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=%2303944A&size=22&center=true&vCenter=true&width=600&height=80&lines=I+love+building+web+applications)
  
  </div>
  
